@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 ¡Hola! Soy Técnico en Desarrollo de Aplicaciones Web.<br>💻 Actualmente curso una especialización en Ciberseguridad.<br>🚀 Me interesa seguir creciendo profesionalmente, y estoy disponible para trabajar por las mañanas mientras continúo mi formación.<br>✨ En mi perfil encontrarás proyectos relacionados con frontend y backend hechos en mi ciclo superior.
+👋 ¡Hola! Soy Técnico en Desarrollo de Aplicaciones Web.<br>🚀 Me interesa seguir creciendo profesionalmente, y estoy disponible para trabajar por las mañanas mientras continúo mi formación.<br>✨ En mi perfil encontrarás proyectos relacionados con frontend y backend hechos en mi ciclo superior.
 
 
 ## 🌐 Socials:
