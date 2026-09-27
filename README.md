@@ -17,4 +17,4 @@ Titulado en DAW (2025). Construyo aplicaciones web completas con **React**, **Ne
 
 ### Contacto
 
-[LinkedIn](https://www.linkedin.com/in/manuel-padilla-pi-4a4a53237/) · manuelpadp@gmail.com
+[LinkedIn](https://www.linkedin.com/in/manuel-padilla-pi) · manuelpadp@gmail.com
