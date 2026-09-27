@@ -2,7 +2,7 @@
 
 Desarrollador web junior · Frontend y Full Stack · Oliva (Valencia), España
 
-Titulado en DAW (2025). Construyo aplicaciones web completas con **React**, **Next.js**, **Node.js** y **MySQL / Supabase**, y en mis prácticas me especialicé en **testing end-to-end con Cypress**.
+Titulado en DAW (2025). Construyo aplicaciones web completas con **React**, **Next.js**, **Node.js**, **Bootstrap** y **MySQL / Supabase**, y en mis prácticas me especialicé en **testing end-to-end con Cypress**.
 
 ### Tecnologías
 
@@ -12,8 +12,8 @@ Titulado en DAW (2025). Construyo aplicaciones web completas con **React**, **Ne
 
 ### Ahora mismo
 
-- Rehaciendo mi proyecto final de DAW (panel de estadísticas para una tienda de ropa) con TypeScript, tests y demo pública.
-- Montando mi portfolio.
+- Rehaciendo mi proyecto final de DAW (panel de estadísticas para una tienda de ropa) con React, Bootstrap y Node.js, además de hacer una demo pública.
+- Montando mi portfolio para demostrar mis habilidades.
 
 ### Contacto
 
