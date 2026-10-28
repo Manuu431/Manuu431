@@ -27,8 +27,9 @@
 
 ### 🔨 Ahora mismo
 
-- Rehaciendo mi proyecto final de DAW (un panel de estadísticas para una tienda de ropa) con React, Node.js y Bootstrap, y publicándolo con una demo.
-- Montando mi portfolio para mostrar mis proyectos.
+- Cursando el Curso de Especialización en IA y Big Data (2026-27).
+- Adaptando mi panel de estadísticas de ventas, ya terminado, para trabajar con los datos reales de un comercio.
+- Buscando mi primer puesto como desarrollador web junior.
 
 ### 📫 Contacto
 
